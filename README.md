@@ -8,7 +8,10 @@ References: GeeksforGeeks
 
 ***Templates:-***
 
-![](doc_address.png)    ![](doc_prev_policy.png)    ![](doc_prev_policy.png)    ![](tamil.png)
+1. ![](doc_address.png)
+2. ![](doc_prev_policy.png)
+3. ![](doc_prev_policy.png)
+4. ![](tamil.PNG)
 
 ***Output Image with detected fields:-***
 
