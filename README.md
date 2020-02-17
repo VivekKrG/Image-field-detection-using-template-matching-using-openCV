@@ -33,4 +33,4 @@ References: GeeksforGeeks
 
 ***Output Image with detected fields 2:-***
 
-![](Me_Rakesh_Output.png)
+![](Me_Rakesh_Output.jpg)
