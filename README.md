@@ -24,7 +24,9 @@ References: GeeksforGeeks
 
 ***The input Image used 2:-***
 
-![](me2.jpg | width=560)
+![](me2.jpg)
+
+<img src="https://github.com/VivekKrG/Image-field-detection-using-template-matching-using-openCV/blob/master/Me_Rakesh_Output.jpg" width="500">
 
 ***Templates 2:-***
 
