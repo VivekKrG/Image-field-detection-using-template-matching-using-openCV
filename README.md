@@ -26,7 +26,7 @@ References: GeeksforGeeks
 
 ![](me2.jpg)
 
-<img src="https://github.com/VivekKrG/Image-field-detection-using-template-matching-using-openCV/blob/master/Me_Rakesh_Output.jpg" width="500">
+<img src="https://github.com/VivekKrG/Image-field-detection-using-template-matching-using-openCV/blob/master/Me_Rakesh_Output.jpg" width="50%" height="50%">
 
 ***Templates 2:-***
 
