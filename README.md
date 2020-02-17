@@ -24,7 +24,7 @@ References: GeeksforGeeks
 
 ***The input Image used 2:-***
 
-![](me2.jpg)
+![](me2.jpg){:height="50%" width="50%"}
 
 ***Templates 2:-***
 
@@ -33,4 +33,4 @@ References: GeeksforGeeks
 
 ***Output Image with detected fields 2:-***
 
-![](Me_Rakesh_Output.jpg)
+![](Me_Rakesh_Output.jpg){:height="50%" width="50%"}
