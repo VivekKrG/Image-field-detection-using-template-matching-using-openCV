@@ -22,7 +22,7 @@ References: GeeksforGeeks
 
 ![](Document_Output.png)
 
-***The input Image used 2:-***
+***The input Image used 2(40% resized):-***
 
 <img src="https://github.com/VivekKrG/Image-field-detection-using-template-matching-using-openCV/blob/master/me2.jpg" width="40%" height="40%">
 
@@ -31,6 +31,6 @@ References: GeeksforGeeks
 1. ![](me.png)
 2. ![](rakesh.png)
 
-***Output Image with detected fields 2:-***
+***Output Image with detected fields 2(40% resized):-***
 
 <img src="https://github.com/VivekKrG/Image-field-detection-using-template-matching-using-openCV/blob/master/Me_Rakesh_Output.jpg" width="40%" height="40%">
