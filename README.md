@@ -24,9 +24,7 @@ References: GeeksforGeeks
 
 ***The input Image used 2:-***
 
-![](me2.jpg)
-
-<img src="https://github.com/VivekKrG/Image-field-detection-using-template-matching-using-openCV/blob/master/Me_Rakesh_Output.jpg" width="10%" height="10%">
+<img src="https://github.com/VivekKrG/Image-field-detection-using-template-matching-using-openCV/blob/master/me2.jpg" width="40%" height="40%">
 
 ***Templates 2:-***
 
@@ -35,4 +33,4 @@ References: GeeksforGeeks
 
 ***Output Image with detected fields 2:-***
 
-![](Me_Rakesh_Output.jpg | width=560)
+<img src="https://github.com/VivekKrG/Image-field-detection-using-template-matching-using-openCV/blob/master/Me_Rakesh_Output.jpg" width="40%" height="40%">
