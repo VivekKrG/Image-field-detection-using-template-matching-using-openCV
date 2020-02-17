@@ -24,7 +24,7 @@ References: GeeksforGeeks
 
 ***The input Image used 2:-***
 
-![](me2.jpg = 560x560)
+![](me2.jpg | width=560)
 
 ***Templates 2:-***
 
@@ -33,4 +33,4 @@ References: GeeksforGeeks
 
 ***Output Image with detected fields 2:-***
 
-![](Me_Rakesh_Output.jpg = 560x560)
+![](Me_Rakesh_Output.jpg | width=560)
